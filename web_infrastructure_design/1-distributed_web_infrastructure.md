@@ -1,4 +1,4 @@
-# Infrastructure: Explanations and Issues
+# Web Infrastructure
 
 ## Infrastructure Specifics
 
